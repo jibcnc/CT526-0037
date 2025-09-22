@@ -1,3 +1,3 @@
-def myfunc(a,b):
-    output = a * b
-    return output   
+def myfunc(x,y):
+    result = x * y
+    return result  
