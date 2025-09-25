@@ -1,3 +1,2 @@
-def myfunc(x,y):
-    result = x * y
-    return result  
+def myfunc(x, y):
+    return x * y
