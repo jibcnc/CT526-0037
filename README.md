@@ -9,7 +9,7 @@
 3.Clone Repository มาไว้ที่ Ubuntu
 - git clone https://github.com/jibcnc/CT526-0037.git
 
-4.ไป Path Folder ไปที่ Repository ที่ Clone มา
+4.แก้ Path ไปที่ Repository ที่ Clone มา
 - cd CT526-0037
 
 5.Run Code
